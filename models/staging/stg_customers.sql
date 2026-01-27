@@ -13,7 +13,6 @@ renamed AS (
         c_birth_year AS birth_year,
         CURRENT_TIMESTAMP() AS _loaded_at
     FROM source
-    WHERE c_customer_sk IS NOT NULL
 )
 
 SELECT * FROM renamed
