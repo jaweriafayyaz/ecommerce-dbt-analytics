@@ -13,7 +13,6 @@ renamed AS (
         i_current_price AS current_price,
         CURRENT_TIMESTAMP() AS _loaded_at
     FROM source
-    WHERE i_item_sk IS NOT NULL
 )
 
 SELECT * FROM renamed
