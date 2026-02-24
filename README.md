@@ -755,7 +755,7 @@ in the Software without restriction...
 **Jaweria Fayyaz**  
 Associate Data Engineer
 
-- 📧 Email: jaweria.fayyaz@example.com
+- 📧 Email: jaweriafayyaz474@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/jaweriafayyaz](https://linkedin.com/in/jaweriafayyaz)
 - 🐙 GitHub: [@jaweriafayyaz](https://github.com/jaweriafayyaz)
 - 📊 Portfolio: [jaweriafayyaz.github.io](https://jaweriafayyaz.github.io)
